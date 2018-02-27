@@ -5,7 +5,7 @@
 
 <h1 align="center">About Me.</h1>
 <p>
- Coming to Luxembourg when having 16 years old, is not quiete a good idea... 
+ Coming to Luxembourg when having 16 years old, is not quiete a good idea... <br>
  People say that whatever you do always keep working on your dreams, even if there are people which saying you should doing something else.
  I ended up my Education on 10th grade in luxembourg, in Poland is like first class of high school, which in IT is something not acceptable. 
  Fully Agree but...
