@@ -16,73 +16,73 @@
  <br>
  <br>
  
- Languages I know I feel moste comfortable:
+ Languages I know I feel moste comfortable:<br>
+ <br>
+ 1. Php<br>
+ 2. JavaScript(not just pure vanilla)<br>
+ 3. Java(Still working on and creating sometimg big).<br>
+ 4. SQl<br>
  
- 1. Php
- 2. JavaScript(not just pure vanilla)
- 3. Java(Still working on and creating sometimg big).
- 4. SQl
+ Languages I do know but not the way I want so I will mention them above:<br>
+ <br>
+ - C++<br>
+ - C#<br>
+ - bash<br>
+ - perl & python<br>
+ <br>
+ <br>
+ Technologies/Freamoworks I used:<br>
+ <br>
+ in Php:<br>
+ - CakePHP Freamwork<br>
+ - Laravel Freamwork<br>
+ - Symfony<br>
+ - MVC with libaries<br>
+ <br>
+ in JavaSCript:<br>
+ - Node.JS<br>
+ - MVC Javascript<br>
+ - Angular<br>
+ - Typescript<br>
+ - Jquery<br>
+ - Express.js<br>
+ - Underscore<br>
+ - Backobone<br>
+ - Services Api<br>
  
- Languages I do know but not the way I want so I will mention them above:
- 
- - C++
- - C#
- - bash
- - perl & python
- 
- 
- Technologies/Freamoworks I used:
- 
- in Php:
- - CakePHP Freamwork
- - Laravel Freamwork
- - Symfony
- - MVC with libaries
- 
- in JavaSCript:
- - Node.JS
- - MVC Javascript
- - Angular
- - Typescript
- - Jquery
- - Express.js
- - Underscore
- - Backobone
- - Services Api
- 
- in Java: (I use and try to learn )
- 
- - Spring MVC
- - Mobile Development for Android (chat with own server)
- - next coming soon for Java...
- 
- in Web:
- 
- - Html freamworks, html5
- - Css, grid, new way of styling,
- - Youtube, Facebook, Google, Friebase, Api
- 
- in Mobile Developemnt:
- 
- - Ionic
- - Cordova
- - Jquery
- - as mention before pure Java...
- 
- in Sql lang:
- - Mysql
- - MongoDB (not exaclty as sql but I will not create new list for that)
- 
- in Linux:
- - Apache
- - Vagrant
- - Tomcat
- - Docker
- - Customize settings for boot, Grub, drivers, network, firewall
- 
- in CVS:
- - git on Github and Gitlab
-   
+ in Java: (I use and try to learn )<br>
+ <br>
+ - Spring MVC<br>
+ - Mobile Development for Android (chat with own server)<br>
+ - next coming soon for Java...<br>
+ <br>
+ in Web:<br>
+ <br>
+ - Html freamworks, html5<br>
+ - Css, grid, new way of styling,<br>
+ - Youtube, Facebook, Google, Friebase, Api<br>
+ <br>
+ in Mobile Developemnt:<br>
+ <br>
+ - Ionic<br>
+ - Cordova<br>
+ - Jquery<br>
+ - as mention before pure Java...<br>
+ <br>
+ in Sql lang:<br>
+ - Mysql<br>
+ - MongoDB (not exaclty as sql but I will not create new list for that)<br>
+ <br>
+ in Linux:<br>
+ - Apache<br>
+ - Vagrant<br>
+ - Tomcat<br>
+ - Docker<br>
+ - Customize settings for boot, Grub, drivers, network, firewall<br>
+ <br>
+ in CVS:<br>
+ - git on Github and Gitlab<br>
+   <br>
   
 </p>
 
