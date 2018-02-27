@@ -4,8 +4,8 @@
 
 <h1 align="center">My Projects</h1>
 <p><p color="#b5e853">
-  <a href="churchmobile.info" class="btn "><span class="icon"></span> Church Mobile</a>
- <b>Churches availbe in our service (currently added by polish pirest in future  I would to have entire Grand-Regione.</b><br>
+  <a align="center" href="churchmobile.info" class="btn "><span class="icon"></span> Church Mobile</a>
+ <b>Churches availbe in our service.</b><br>
  Writed by me and administrated, backend in Php and Mysql, front-side of web is available for accepted people responsable of churches. But app is done in hybrid freamwork and available on Android & iOS.<br>
  
  </p>
