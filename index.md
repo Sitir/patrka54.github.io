@@ -3,7 +3,7 @@
 [**My GitHub Repo**](https://github.com/patrka54) - projects and more.
 
 <p align="center">
-##About Me.
+<h1>About Me.</h1>
 
 </p>
 
