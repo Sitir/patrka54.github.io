@@ -74,6 +74,9 @@
  - Html freamworks, html5<br>
  - Css, grid, new way of styling,<br>
  - Youtube, Facebook, Google, Friebase, Api<br>
+ - Webpack
+ - Gulp
+ - NPM
  <br>
  in Mobile Developemnt:<br>
  <br>
