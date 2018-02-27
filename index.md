@@ -1,12 +1,13 @@
 ## Welcome on My Page!
 
-[**My GitHub Repo**](https://github.com/patrka54) 
+[**My GitHub Repo**](https://github.com/patrka54) - projects and more.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<p align="center">
+##About Me.
 
-### Markdown
+</p>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
 
 ```markdown
 Syntax highlighted code block
