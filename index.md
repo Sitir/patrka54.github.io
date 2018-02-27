@@ -22,7 +22,7 @@
  2. JavaScript(not just pure vanilla)<br>
  3. Java(Still working on and creating sometimg big).<br>
  4. SQl<br>
- 
+ <br>
  Languages I do know but not the way I want so I will mention them above:<br>
  <br>
  - C++<br>
@@ -49,7 +49,7 @@
  - Underscore<br>
  - Backobone<br>
  - Services Api<br>
- 
+ <br>
  in Java: (I use and try to learn )<br>
  <br>
  - Spring MVC<br>
@@ -69,20 +69,24 @@
  - Jquery<br>
  - as mention before pure Java...<br>
  <br>
- in Sql lang:<br>
+ in Sql lang:<br><br>
  - Mysql<br>
  - MongoDB (not exaclty as sql but I will not create new list for that)<br>
  <br>
- in Linux:<br>
+ in Linux:<br><br>
  - Apache<br>
  - Vagrant<br>
  - Tomcat<br>
  - Docker<br>
  - Customize settings for boot, Grub, drivers, network, firewall<br>
  <br>
- in CVS:<br>
+ in CVS:<br><br>
  - git on Github and Gitlab<br>
    <br>
   
 </p>
+<h1 align="center">My Projects</h1>
+<p>
+  <a href="churchmobile.info" class="btn btn-facebook"><span class="icon"></span> Church Mobile</a>
+ </p>
 
