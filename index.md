@@ -2,12 +2,8 @@
 
 #### My name is Patryk Michno, polish guy living in Luxembourg. ;)
 
-<h1 align="center">My Projects on website!</h1>
-<p><p color="#b5e853">
-  <a align="center" href="http://www.michno.mobi" class="btn "><span class="icon"></span>Michno.mobi</a>
+ <a align="center" href="http://www.michno.mobi" ><h1 align="center">My Projects on website!</h1></a>
 
- 
- </p>
  </p>
 
 
