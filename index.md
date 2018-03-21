@@ -2,7 +2,7 @@
 
 #### My name is Patryk Michno, polish guy living in Luxembourg. ;)
 
- <a align="center" href="http://www.michno.mobi" ><h1 align="center">My Projects on website!</h1></a>
+<h1 align="center"> <a align="center" href="http://www.michno.mobi" >My Projects on website!</a></h1>
 
 
 
