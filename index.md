@@ -4,7 +4,6 @@
 
  <a align="center" href="http://www.michno.mobi" ><h1 align="center">My Projects on website!</h1></a>
 
- </p>
 
 
 
